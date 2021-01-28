@@ -1,0 +1,17 @@
+variable,ranking
+MunicipalityCode,2
+DistrictName,2
+NearestStation,1
+FloorPlan,1
+BuildingYear,1
+Structure,1
+Use,2
+Direction,1
+Classification,1
+Year,1
+Area,7
+Frontage,1
+TotalFloorArea,1
+Breadth,4
+FloorAreaRatio,1
+MeanTimeToNearestStation,8
